@@ -1,7 +1,6 @@
 
 public class KLASS {
 
-// Github//
-Bonjour
+	private int fefjkzekfjzjk = 2;
 	
 }
